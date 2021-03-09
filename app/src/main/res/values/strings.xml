@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ClickOnCheckbox</string>
+    <string name="checkbox_Dog">Dog</string>
+    <string name="checkbox_Cat">Cat</string>
+    <string name="button_check">Check</string>
+</resources>
