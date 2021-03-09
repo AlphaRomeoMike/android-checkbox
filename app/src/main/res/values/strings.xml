@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChangeTextOnButtonClick</string>
+    <string name="enter_anything_here">Enter anything here</string>
+    <string name="your_text_will_show_here">Your text will show here</string>
+</resources>
