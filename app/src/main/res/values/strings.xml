@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClickOnRadio</string>
+    <string name="select_your_gender">Select your gender</string>
+    <string name="radio_male">Male</string>
+    <string name="female">Female</string>
+    <string name="button_submit">Submit</string>
+</resources>
